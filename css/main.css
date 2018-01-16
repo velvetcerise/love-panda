@@ -1,0 +1,52 @@
+body {
+  background: #F78E69;
+  color: white;
+}
+
+#card {
+  margin-top: 8vh;
+  background: #F78E69;
+  font-size: 18px;
+}
+
+.background {
+    background-image: url("./../assets/images/uno.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 130vh;
+}
+
+.cover-1 {
+  margin-top: 6vh;
+  background: #abe188;
+  height: auto;
+}
+
+.background-2{
+background-image: url("./../assets/images/dos.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 130vh;
+}
+
+.pictures {
+  margin-top: 6vh;
+  background: #abe188;
+  height: 70vh;
+}
+
+.background-3 {
+background-image: url("./../assets/images/tres.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 130vh;
+}
+
+.square {
+ border: 8px solid white;
+ margin-top: 12vh;
+ display: inline;
+}
